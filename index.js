@@ -183,7 +183,7 @@ export async function startBot() {
     generateHighQualityLinkPreview: true,
     shouldIgnoreJid: (jid) => jid.endsWith('@broadcast'),
     keepAliveIntervalMs: 25_000,
-    getMessage: async (key) => msgStore.get(key.remoteJid + ':' + key.id) ?? { conversation: '' },
+    getMessage: async (key) => msgStore.get(key.remoteJid + ':' + key.id),
   });
 
   global.sock = sock;
