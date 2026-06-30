@@ -2,10 +2,10 @@
 > **Este proyecto está en constante evolución. Estamos comprometidos en ofrecer a nuestra comunidad un Bot increíble. Te invitamos a instalarlo y para estar al tanto de todas las novedades. [¡Únete a nuestro nuevo canal!](https://whatsapp.com/channel/0029Vaz6RTR0LKZIKwudX32x)**
 
 <p align="center"> 
-<img src="https://n.uguu.se/JxrVtuPC.mp4" alt="Elaina-Wa" style="width: 75%; height: auto; max-width: 100px;">
+<img src="https://d.uguu.se/FLHmpSrN.jpeg" alt="Shiina-Wa" style="width: 75%; height: auto; max-width: 100px;">
 
 <p align="center"> 
-<a href="#"><img title="YukiBot-MD" src="https://img.shields.io/badge/¡Disfruta de un Bot totalmente gratuito, con múltiples funciones y de código abierto! -purple?colorA=%239b33b0&colorB=%231c007b&style=for-the-badge"></a> 
+<a href="#"><img title="Shiina-Mahiru" src="https://img.shields.io/badge/¡Disfruta de un Bot totalmente gratuito, con múltiples funciones y de código abierto! -purple?colorA=%239b33b0&colorB=%231c007b&style=for-the-badge"></a> 
 </p>
 
 ---
