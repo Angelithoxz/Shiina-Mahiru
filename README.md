@@ -135,25 +135,49 @@ cd && cd Shiina-Mahiru && rm -rf Sessions/Owner && npm start
 
 ---
 
-### Patrocinadores del Proyecto
+## 💖 Patrocinadores del Proyecto
 
-<details>
-<summary><strong>☁️ Everligth</strong> — API</summary>
+<details open>
+<summary><strong>☁️ Everligth — API Oficial</strong></summary>
+
+<br>
 
 <div align="center">
+  <a href="https://api.infostore.click" target="_blank">
+    <img src="https://api.infostore.click/favicon.ico" alt="Everligth" width="120">
+  </a>
+
+  <br><br>
+
   <a href="https://api.infostore.click">
-    <img src="https://api.infostore.click/favicon.ico" alt="Logo" height="125px">
+    <img src="https://img.shields.io/badge/Visitar_API-00C853?style=for-the-badge&logo=cloudflare&logoColor=white" alt="API">
   </a>
 </div>
 
+</details>
 
 ---
 
-### 🦋 Colaboradores
-<a href="https://api.infostore.click">
-  <img src="https://contrib.rocks/image?repo=Angelithoxz/Shiina-Mahiru" />
+## 🦋 Colaboradores
+
+<div align="center">
+  <a href="https://github.com/Angelithoxz/Shiina-Mahiru/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=Angelithoxz/Shiina-Mahiru" alt="Contributors">
+  </a>
+</div>
+
+---
+
+## 💐 Propietario
+
+<div align="center">
+
+<a href="https://github.com/Angelithoxz">
+  <img src="https://github.com/Angelithoxz.png?size=120" width="120" style="border-radius:50%;" alt="Angelithoxz">
 </a>
 
+### Angelithoxz
 
-### 💐 Propietario
-[![Angelithoxz](https://github.com/Angelithoxz.png?size=120)](https://github.com/Angelithoxz)
+Desarrollador y mantenedor principal de **Shiina-Mahiru**.
+
+</div>
