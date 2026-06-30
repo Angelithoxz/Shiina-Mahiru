@@ -135,7 +135,7 @@ cd && cd Shiina-Mahiru && rm -rf Sessions/Owner && npm start
 
 ---
 
-## 💖 Patrocinadores del Proyecto
+## 💖 Patrocinador Oficial
 
 <details open>
 <summary><strong>☁️ Everligth — API Oficial</strong></summary>
@@ -150,7 +150,7 @@ cd && cd Shiina-Mahiru && rm -rf Sessions/Owner && npm start
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&color=00C853&lines=Powered+by+Everligth+API;Fast+%E2%80%A2+Reliable+%E2%80%A2+Modern" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1200&color=00C853&center=true&vCenter=true&width=700&lines=Powered+by+Everligth+API;Fast+%E2%80%A2+Reliable+%E2%80%A2+Modern" alt="Typing SVG"/>
 
 <br><br>
 
@@ -158,33 +158,29 @@ cd && cd Shiina-Mahiru && rm -rf Sessions/Owner && npm start
   <img src="https://img.shields.io/badge/Visitar_API-00C853?style=for-the-badge&logo=cloudflare&logoColor=white" alt="API">
 </a>
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:00C853,100:00BFFF&section=footer"/>
-
 </div>
 
 </details>
 
 ---
 
-## 💐 Propietario
+## 👨‍💻 Propietario
 
 <div align="center">
 
 <a href="https://github.com/Angelithoxz">
-  <img src="https://github.com/Angelithoxz.png?size=180" width="170" alt="Angelithoxz">
+  <img src="https://github.com/Angelithoxz.png?size=200" width="170" alt="Angelithoxz">
 </a>
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=1200&center=true&vCenter=true&width=500&color=FF69B4&lines=Angelithoxz;Creator+of+Shiina+Mahiru;Open+Source+Developer" alt="Typing SVG"/>
-
-<br>
-
-**Desarrollador y mantenedor principal de _Shiina-Mahiru_.**
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3000&pause=1200&color=FF69B4&center=true&vCenter=true&width=600&lines=Angelithoxz;Open+Source+Developer;Creator+of+Shiina+Mahiru" alt="Typing SVG"/>
 
 <br>
+
+Desarrollador y mantenedor principal de **Shiina-Mahiru**.
+
+<br><br>
 
 <a href="https://github.com/Angelithoxz">
   <img src="https://img.shields.io/badge/GitHub-@Angelithoxz-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -192,14 +188,18 @@ cd && cd Shiina-Mahiru && rm -rf Sessions/Owner && npm start
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Angelithoxz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Angelithoxz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" />
 
-<br>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=Angelithoxz&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelithoxz&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
-<br>
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Angelithoxz&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6"/>
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C853,50:00BFFF,100:8A2BE2&section=footer"/>
 
 </div>
