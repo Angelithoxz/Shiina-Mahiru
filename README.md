@@ -143,28 +143,28 @@ cd && cd Shiina-Mahiru && rm -rf Sessions/Owner && npm start
 <br>
 
 <div align="center">
-  <a href="https://api.infostore.click" target="_blank">
-    <img src="https://api.infostore.click/favicon.ico" alt="Everligth" width="120">
-  </a>
 
-  <br><br>
+<a href="https://api.infostore.click">
+  <img src="https://api.infostore.click/favicon.ico" width="120" alt="Everligth">
+</a>
 
-  <a href="https://api.infostore.click">
-    <img src="https://img.shields.io/badge/Visitar_API-00C853?style=for-the-badge&logo=cloudflare&logoColor=white" alt="API">
-  </a>
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&color=00C853&lines=Powered+by+Everligth+API;Fast+%E2%80%A2+Reliable+%E2%80%A2+Modern" alt="Typing SVG"/>
+
+<br><br>
+
+<a href="https://api.infostore.click">
+  <img src="https://img.shields.io/badge/Visitar_API-00C853?style=for-the-badge&logo=cloudflare&logoColor=white" alt="API">
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:00C853,100:00BFFF&section=footer"/>
+
 </div>
 
 </details>
-
----
-
-## 🦋 Colaboradores
-
-<div align="center">
-  <a href="https://github.com/Angelithoxz/Shiina-Mahiru/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=Angelithoxz/Shiina-Mahiru" alt="Contributors">
-  </a>
-</div>
 
 ---
 
@@ -173,11 +173,33 @@ cd && cd Shiina-Mahiru && rm -rf Sessions/Owner && npm start
 <div align="center">
 
 <a href="https://github.com/Angelithoxz">
-  <img src="https://github.com/Angelithoxz.png?size=120" width="120" style="border-radius:50%;" alt="Angelithoxz">
+  <img src="https://github.com/Angelithoxz.png?size=180" width="170" alt="Angelithoxz">
 </a>
 
-### Angelithoxz
+<br>
 
-Desarrollador y mantenedor principal de **Shiina-Mahiru**.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=1200&center=true&vCenter=true&width=500&color=FF69B4&lines=Angelithoxz;Creator+of+Shiina+Mahiru;Open+Source+Developer" alt="Typing SVG"/>
+
+<br>
+
+**Desarrollador y mantenedor principal de _Shiina-Mahiru_.**
+
+<br>
+
+<a href="https://github.com/Angelithoxz">
+  <img src="https://img.shields.io/badge/GitHub-@Angelithoxz-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Angelithoxz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Angelithoxz&theme=tokyonight&hide_border=true" height="165"/>
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Angelithoxz&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6"/>
 
 </div>
