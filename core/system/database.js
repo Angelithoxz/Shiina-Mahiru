@@ -115,15 +115,15 @@ export const defSets = {
   self: 0,
   prefix: '[\"/\",\"!\",\".\",\"#\"]',
   commandsejecut: 0,
-  newsletter_id: '120363401404146384@newsletter',
+  newsletter_id: '120363374826926142@newsletter',
   nameid: 'EverligthWa',
   type: 'Owner',
   link: 'https://api.infostore.click',
   banner: 'https://cdn.yuki-wabot.my.id/files/tCVD.jpeg',
   icon: 'https://cdn.yuki-wabot.my.id/files/4U5V.jpeg',
   currency: 'Yenes',
-  namebot: 'Yuki',
-  botname: 'Yuki Suou',
+  namebot: 'Shiina',
+  botname: 'Shiina Mahiru',
   owner: ''
 };
 
