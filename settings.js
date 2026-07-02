@@ -2,14 +2,14 @@ import { watchFile, unwatchFile } from "fs";
 import chalk from "chalk";
 import { fileURLToPath } from "url";
 
-global.owner = ['573196588149', '50498273976'];
+global.owner = ['51910340144', '51901930696'];
 
-global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜";
+global.dev = "Made With By Everligth Wa";
 global.links = {
-  api: 'https://api.yuki-wabot.my.id',
-  channel: "https://whatsapp.com/channel/0029Vb64nWqLo4hb8cuxe23n",
-  github: "https://github.com/iamDestroy/YukiBot-MD",
-  gmail: "thekingdestroy507@gmail.com"
+  api: 'https://api.infostore.click',
+  channel: "https://whatsapp.com/channel/0029Vaz6RTR0LKZIKwudX32x",
+  github: "https://github.com/Angelithoxz/Shiina-Mahiru",
+  gmail: "api.everligthwa@gmail.com"
 }
 global.my = {
   ch1: '120363401404146384@newsletter'
