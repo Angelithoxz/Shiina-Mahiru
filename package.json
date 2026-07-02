@@ -1,5 +1,5 @@
 {
-  "name": "yukiwabot",
+  "name": "Shiina-Mahiru",
   "version": "3.2",
   "description": "WhatsApp multi Device, updated with better performance",
   "main": "index.js",
@@ -21,7 +21,7 @@
     "baileys-md",
     "multi-device"
   ],
-  "author": "iamDestroy",
+  "author": "Angelithoxyz",
   "license": "MIT",
   "engines": {
     "node": ">=22.13.0",
@@ -31,7 +31,7 @@
     "@vitalets/google-translate-api": "latest",
     "aptoide-scraper": "github:DIEGO-OFC/dv-aptoide-scraper",
     "axios": "^0.24.0",
-    "baileys": "github:WhiskeySockets/Baileys",
+    "baileys": "github:gatanina-li/baileys",
     "cfonts": "^3.3.0",
     "chalk": "^4.1.2",
     "cheerio": "npm:cheerio@1.0.0-rc.12",
