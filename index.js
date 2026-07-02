@@ -1,7 +1,14 @@
 import "./settings.js";
 import main from '#main';
 import events from '#events';
-import makeWASocket, { Browsers, makeCacheableSignalKeyStore, useMultiFileAuthState, fetchLatestBaileysVersion, jidDecode, DisconnectReason } from 'baileys';
+import makeWASocket, {
+  Browsers,
+  makeCacheableSignalKeyStore,
+  useMultiFileAuthState,
+  fetchLatestBaileysVersion,
+  jidDecode,
+  DisconnectReason
+} from "baileys";
 import pino from "pino";
 import qrcode from "qrcode-terminal";
 import chalk from "chalk";
