@@ -12,11 +12,11 @@ global.links = {
   gmail: "api.everligthwa@gmail.com"
 }
 global.my = {
-  ch1: '120363401404146384@newsletter'
+  ch1: '120363374826926142@newsletter'
 };
 
 global.APIs = { 
-  yuki: { url: "https://api.yuki-wabot.my.id", key: "YukiBot-MD" },
+  yuki: { url: "https://api.infostore.click", key: "EverligthWa" },
   vreden: { url: "https://api.vreden.web.id", key: null },
   ootaizumi: { url: "https://api.ootaizumi.web.id", key: null },
   delirius: { url: "https://api.delirius.store", key: null },
