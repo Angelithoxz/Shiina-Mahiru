@@ -16,7 +16,7 @@ global.my = {
 };
 
 global.APIs = { 
-  yuki: { url: "https://api.infostore.click", key: "EverligthWa" },
+    yuki: { url: "https://api.yuki-wabot.my.id", key: "YukiBot-MD" },
   vreden: { url: "https://api.vreden.web.id", key: null },
   ootaizumi: { url: "https://api.ootaizumi.web.id", key: null },
   delirius: { url: "https://api.delirius.store", key: null },
