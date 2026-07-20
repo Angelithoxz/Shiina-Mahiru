@@ -98,7 +98,8 @@ const cmd = {
 
 export default cmd
 
-const api_url = 'https://fare.ink/dl/ytv?url='
+const api_url = 'https://api.lempi.lat/dl/ytv?url='
+const api_key = 'montekey28'
 const max_video_size = 50 * 1024 * 1024
 
 async function getYoutubeUrl(input) {
@@ -118,26 +119,40 @@ async function getYoutubeUrl(input) {
 }
 
 async function getFareVideo(url) {
-  const res = await fetch(api_url + encodeURIComponent(url), {
-    headers: {
-      accept: 'application/json',
-      'user-agent': 'Mozilla/5.0'
+  const res = await fetch(
+    `${api_url}${encodeURIComponent(url)}&apikey=${api_key}`,
+    {
+      headers: {
+        accept: 'application/json',
+        'user-agent': 'Mozilla/5.0'
+      }
     }
-  })
+  )
 
   const text = await res.text()
 
   if (!res.ok) {
-    throw new Error(`Fare API HTTP ${res.status}: ${text.slice(0, 200)}`)
+    throw new Error(`API HTTP ${res.status}: ${text.slice(0, 200)}`)
   }
 
+  let data
+
   try {
-    return JSON.parse(text)
+    data = JSON.parse(text)
   } catch {
     throw new Error(`Respuesta inválida de Fare API: ${text.slice(0, 200)}`)
   }
-}
 
+  if (!data?.status) {
+    throw new Error(data?.message || 'La API no devolvió un resultado válido.')
+  }
+
+  if (!data?.descarga?.url) {
+    throw new Error('La API no devolvió la URL de descarga.')
+  }
+
+  return data
+}
 async function getRemoteFileSize(url) {
   const head = await fetch(url, {
     method: 'HEAD',
